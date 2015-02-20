@@ -8,6 +8,7 @@
 * [View]
 * [Tests]
 * [JS]
+* [Database Migrations]
 
 
 [Controllers Directory]:https://github.com/iktash/laravel/tree/master/app/Http/Controllers
@@ -17,3 +18,4 @@
 [Tests]:https://github.com/iktash/laravel/tree/master/tests
 [JS]: https://github.com/iktash/laravel/blob/master/public/js/app.js
 [View]:https://github.com/iktash/laravel/blob/master/resources/views/welcome.blade.php
+[Database Migrations]:https://github.com/iktash/laravel/tree/master/database/migrations
